@@ -5,7 +5,10 @@ This project is to create a Database for a client called Sparkify. They have the
 ## Contents
 
 * Jupyternotebook - Test. This notebook is to test if all the tables were loaded correctly.
-* Event Data file
+* Sql_queries.py
+* etl.py
+* etl.ipynb
+* create_tables.py
 * Images
 * Source files were included as examples of the data being manipulated.
 
