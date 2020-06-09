@@ -29,8 +29,8 @@ This project is to create a Database for a client called Sparkify. They have the
 
 ## General
 
-A conceptual data model was then created to test out the theories and later turned into the physical data model. The physical data model was done in the sql_queries.py file. The database that was used was of Postgressql.
-The ETL pipeline was first tested out in the etl.ipynb and only one recorded was extracted at a time and inserted into tables to determine if the pipeline was working accordingly. I was able to make use of data frames to do the data analysis.
+A conceptual data model was created to test out the theories and later turned into the physical data model. The physical data model was done in the sql_queries.py file. The database that was used was of Postgressql.
+The ETL pipeline was first tested out in the etl.ipynb and only one record was extracted at a time and inserted into tables to determine if the pipeline was working accordingly. I was able to make use of data frames to do the data analysis.
 
 
 
