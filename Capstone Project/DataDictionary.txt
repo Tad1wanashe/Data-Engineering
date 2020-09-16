@@ -1,0 +1,40 @@
+Data Dictionaries
+
+AIRPORT DATA DESCRIPTION
+
+* ident - Primary Key/ Unique Identifier
+* type - Airport description/ type of airport
+* name - Name of the airport
+* elevation - Airport Alititude
+* continent - Continent Airport is located
+* iso_country - ISO code of the country of the airport
+* iso_region - ISO code for the region of the airport
+* municipality - Airport city
+* gps_code - GPS code of the airport
+* iata_code - IATA code of the airport
+* local_code - Local Code for the airport
+* coordinates - GPS coordinates for the airport
+
+GLOBAL TEMPERATURE DESCRIPTION
+
+* dt- Date Format (Our dates start from 1743)
+* Average Temperature - Average temperature per city 
+* City - The Name of The City
+* Country - The name of the country 
+* Latitude - Latitude location of the city
+* Longtitude - Longtitude Location of the city
+
+US CITIES DEMOGRAPHIC DESCRIPTION
+
+* City - The name of the city 
+* State - The State in Which the city is in
+* Median Age - The Median Age of the citizens
+* Male Population - The number represnted by the Male Population
+* Female Population - The number represented by the female population
+* Total Population - The total number of the population
+* Number of Veterans - The Total number of veterans 
+* Foreign Born - The number of the population that are foreigners 
+* Average Household Size - The size of the average house hold in america
+* State Code - The US State code
+* Race - The Race the person belongs to
+* Count

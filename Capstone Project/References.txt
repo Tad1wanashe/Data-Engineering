@@ -1,0 +1,10 @@
+#References
+
+https://stackoverflow.com/questions/33225631/find-duplicates-with-groupby-in-pandas
+https://stackoverflow.com/questions/33813815/how-to-read-a-parquet-file-into-pandas-dataframe
+https://spark.apache.org/docs/latest/api/python/pyspark.sql.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_parquet.html
+https://stackoverflow.com/questions/41066582/python-save-pandas-data-frame-to-parquet-file
+https://stackoverflow.com/questions/33102727/primary-keys-with-apache-spark
+https://stackoverflow.com/questions/48209667/using-monotonically-increasing-id-for-assigning-row-number-to-pyspark-dataframe
+https://www.knowledgehut.com/blog/cloud-computing/benefits-of-amazon-emr
